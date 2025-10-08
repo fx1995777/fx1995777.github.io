@@ -7,7 +7,7 @@ subtitle: null
 
 profile:
   align: right
-  image: prof_pic.png
+  image: avatar.png
   image_circular: false # crops the image to make it circular
   more_info: null # >
 # <p>555 your office number</p>
